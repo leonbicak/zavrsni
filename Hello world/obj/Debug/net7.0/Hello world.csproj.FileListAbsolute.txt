@@ -1,0 +1,34 @@
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Hello world.exe
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Hello world.deps.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Hello world.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Hello world.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Hello world.pdb
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.Hello world.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.build.Hello world.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Hello world.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Hello world.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\scopedcss\bundle\Hello world.styles.css
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.csproj.CopyComplete
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\refint\Hello world.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.pdb
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\Hello world.genruntimeconfig.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\obj\Debug\net7.0\ref\Hello world.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\Hello world\bin\Debug\net7.0\Newtonsoft.Json.dll

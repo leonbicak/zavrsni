@@ -1,0 +1,355 @@
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.exe
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.deps.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.runtimeconfig.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.pdb
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.izlazniracuni.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.izlazniracuni.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.izlazniracuni.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.izlazniracuni.props
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\izlazniracuni.styles.css
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CopyComplete
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\refint\izlazniracuni.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.pdb
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.genruntimeconfig.cache
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\ref\izlazniracuni.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Documents\GitHub\EdunovaWP1\CSHARP\Ponavljanje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.exe
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.deps.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.runtimeconfig.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.pdb
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.AssemblyReference.cache
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfoInputs.cache
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfo.cs
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CoreCompileInputs.cache
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.izlazniracuni.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.izlazniracuni.props
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.izlazniracuni.props
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.izlazniracuni.props
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\izlazniracuni.styles.css
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CopyComplete
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\refint\izlazniracuni.dll
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.pdb
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.genruntimeconfig.cache
+C:\Users\Polaznik\Desktop\moje ne diraj tuzit cu te\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\ref\izlazniracuni.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.exe
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.deps.json
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.runtimeconfig.json
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.pdb
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\no\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.AssemblyReference.cache
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.GeneratedMSBuildEditorConfig.editorconfig
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfoInputs.cache
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfo.cs
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CoreCompileInputs.cache
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cs
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cache
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.izlazniracuni.Microsoft.AspNetCore.StaticWebAssets.props
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.izlazniracuni.props
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.izlazniracuni.props
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.izlazniracuni.props
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\izlazniracuni.styles.css
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CopyComplete
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.dll
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\refint\izlazniracuni.dll
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.pdb
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.genruntimeconfig.cache
+E:\no\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\ref\izlazniracuni.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.exe
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.deps.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.runtimeconfig.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.pdb
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.izlazniracuni.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.izlazniracuni.props
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.izlazniracuni.props
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.izlazniracuni.props
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\izlazniracuni.styles.css
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CopyComplete
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\refint\izlazniracuni.dll
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.pdb
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\zadnje\backend\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\ref\izlazniracuni.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.Development.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\appsettings.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.exe
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.deps.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.runtimeconfig.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\izlazniracuni.pdb
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Core.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Azure.Identity.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.OpenApi.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Drawing.Common.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Memory.Data.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Runtime.Caching.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Security.Permissions.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\System.Windows.Extensions.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.AssemblyReference.cache
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.GeneratedMSBuildEditorConfig.editorconfig
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfoInputs.cache
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.AssemblyInfo.cs
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CoreCompileInputs.cache
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cs
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.MvcApplicationPartsAssemblyInfo.cache
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.izlazniracuni.Microsoft.AspNetCore.StaticWebAssets.props
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.build.izlazniracuni.props
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.izlazniracuni.props
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.izlazniracuni.props
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.pack.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.build.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\staticwebassets.development.json
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\scopedcss\bundle\izlazniracuni.styles.css
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.csproj.CopyComplete
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\refint\izlazniracuni.dll
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.pdb
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\izlazniracuni.genruntimeconfig.cache
+E:\zadnjezadnje\EdunovaWebapi\WebApplication1\obj\Debug\net7.0\ref\izlazniracuni.dll
