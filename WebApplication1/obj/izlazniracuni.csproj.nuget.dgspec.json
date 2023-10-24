@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\zadnjezadnje\\EdunovaWebapi\\WebApplication1\\izlazniracuni.csproj": {}
+    "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\izlazniracuni.csproj": {}
   },
   "projects": {
-    "D:\\zadnjezadnje\\EdunovaWebapi\\WebApplication1\\izlazniracuni.csproj": {
+    "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\izlazniracuni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\zadnjezadnje\\EdunovaWebapi\\WebApplication1\\izlazniracuni.csproj",
+        "projectUniqueName": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\izlazniracuni.csproj",
         "projectName": "izlazniracuni",
-        "projectPath": "D:\\zadnjezadnje\\EdunovaWebapi\\WebApplication1\\izlazniracuni.csproj",
+        "projectPath": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\izlazniracuni.csproj",
         "packagesPath": "C:\\Users\\Korisnik\\.nuget\\packages\\",
-        "outputPath": "D:\\zadnjezadnje\\EdunovaWebapi\\WebApplication1\\obj\\",
+        "outputPath": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Korisnik\\AppData\\Roaming\\NuGet\\NuGet.Config",

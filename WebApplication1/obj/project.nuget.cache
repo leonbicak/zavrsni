@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "svIGJDyfQM1Wz7cfqeZDE0pAicthz3KJoIoHmcXQLACInFso+XZxJVO4tL/MtInoVyvDufT0f9jK52SETIbKSA==",
+  "dgSpecHash": "pTNxntac2BbOKg6HJA95meFnJJyHtOF0tqgwyV0F/l7wgSbZ42tXCq/5WkbV3g8k77hChzmbMF306AZ+PjoqFg==",
   "success": true,
-  "projectFilePath": "D:\\zadnjezadnje\\EdunovaWebapi\\WebApplication1\\izlazniracuni.csproj",
+  "projectFilePath": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\izlazniracuni.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Korisnik\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Korisnik\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
