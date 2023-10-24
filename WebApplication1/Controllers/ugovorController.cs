@@ -90,7 +90,7 @@ namespace izlazniracuni.Controllers
         }
 
         [HttpGet]
-        [Route("{ID_ugovor:int")]
+        [Route("{ID_ugovor:int}")]
         public IActionResult GetByID(int ID_ugovor)
         {
             if (ID_ugovor <= 0)
