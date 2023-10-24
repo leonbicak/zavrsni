@@ -137,18 +137,18 @@ namespace izlazniracuni.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState);
+                return BadRequest();
             }
             if (dto.ID_kupac2 <= 0)
             {
-                return BadRequest(ModelState);
+                return BadRequest();
             }
             try
             {
                 var kupac2 = _context.kupac2.Find(dto.ID_kupac2);
                 if (kupac2 == null)
                 {
-                    return BadRequest(ModelState);
+                    return BadRequest("{\"poruka\":\"Nema kupca s tim id.\"}");
                 }
                 ugovor u = new ugovor()
                 {
@@ -198,7 +198,7 @@ namespace izlazniracuni.Controllers
         {
             if (!ModelState.IsValid)
             {
-                return BadRequest(ModelState);
+                return BadRequest();
             }
             if (ID_ugovor <= 0 || dto == null)
             {
