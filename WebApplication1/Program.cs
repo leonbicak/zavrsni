@@ -27,6 +27,9 @@ builder.Services.AddSwaggerGen(sgo => { // sgo je instanca klase SwaggerGenOptio
         }
     };
     sgo.SwaggerDoc("v1", o);
+    var xmlFile = $"{Assembly.GetExecutingAssembly().GetName().Name}.xml";
+    var xmlPath = Path.Combine(AppContext.BaseDirectory, xmlFile);
+    sgo.IncludeXmlComments(xmlPath);
 
 
 });
@@ -59,6 +62,7 @@ app.UseHttpsRedirection();
 
 
 app.MapControllers();
+app.UseStaticFiles();
 
 
 app.Run();

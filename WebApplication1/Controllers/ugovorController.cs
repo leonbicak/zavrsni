@@ -150,8 +150,11 @@ namespace izlazniracuni.Controllers
                 {
                     return BadRequest(ModelState);
                 }
-                ugovor u = new()
+                ugovor u = new ugovor()
                 {
+                    ID_ugovor = dto.ID_ugovor,
+                    datum_zavrsetka=dto.datum_zavrsetka,
+                    datum_pocetka = dto.datum_pocetka,
                     urudzbeni_broj = dto.urudzbeni_broj,
                     kupac2 = kupac2
                 };
@@ -252,6 +255,7 @@ namespace izlazniracuni.Controllers
         /// <response code="503">Na azure treba dodati IP u firewall</response> 
 
         [HttpDelete]
+        [Route("{ID_ugovor:int}")]
 
 
         [Produces("application/json")]
@@ -262,14 +266,14 @@ namespace izlazniracuni.Controllers
             {
                 return BadRequest();
             }
-            var vratiBaza = _context.ugovor.Find(ID_ugovor);
-            if (vratiBaza == null)
+            var ugovor = _context.ugovor.Find(ID_ugovor);
+            if (ugovor == null)
             {
                 return BadRequest();
             }
             try
             {
-                _context.ugovor.Remove(vratiBaza);
+                _context.ugovor.Remove(ugovor);
                 _context.SaveChanges();
                 return new JsonResult("{\"poruka\":\"Obrisano\"}");
             }

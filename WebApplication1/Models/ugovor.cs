@@ -8,7 +8,7 @@ namespace izlazniracuni.Models
         [Key]
         public int ID_ugovor { get; set; }
 
-        [ForeignKey("ID_kupac2")]
+        [ForeignKey("kupac2")]
         public kupac2? kupac2 { get; set; }
 
         public DateTime? datum_pocetka { get; set; }
