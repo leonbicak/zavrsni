@@ -98,6 +98,23 @@ namespace izlazniracuni.Controllers
 
         }
 
+        /// <summary>
+        /// Mijenja podatke postojećeg smjera u bazi
+        /// </summary>
+        /// <remarks>
+        /// Primjer upita:
+        ///
+        ///    PUT api/v1/smjer/1
+        ///
+        /// 
+        ///
+        /// </remarks>
+        /// <param name="id">Šifra smjera koji se mijenja</param>  
+        /// <returns>Svi poslani podaci od smjera</returns>
+        /// <response code="200">Sve je u redu</response>
+        /// <response code="204">Nema u bazi smjera kojeg želimo promijeniti</response>
+        /// <response code="415">Nismo poslali JSON</response> 
+        /// <response code="503">Na azure treba dodati IP u firewall</response> 
         [HttpPut]
 
         [Route("{ID_kupac2:int}")]
@@ -137,6 +154,23 @@ namespace izlazniracuni.Controllers
                 // nije dobro vraćati cijeli ex ali za dev je OK
             }
         }
+
+
+        /// <summary>
+        /// Briše smjer iz baze
+        /// </summary>
+        /// <remarks>
+        /// Primjer upita:
+        ///
+        ///    DELETE api/v1/smjer/1
+        ///    
+        /// </remarks>
+        /// <param name="id">Šifra smjera koji se briše</param>  
+        /// <returns>Odgovor da li je obrisano ili ne</returns>
+        /// <response code="200">Sve je u redu</response>
+        /// <response code="204">Nema u bazi smjera kojeg želimo obrisati</response>
+        /// <response code="415">Nismo poslali JSON</response> 
+        /// <response code="503">Na azure treba dodati IP u firewall</response> 
 
         [HttpDelete]
 

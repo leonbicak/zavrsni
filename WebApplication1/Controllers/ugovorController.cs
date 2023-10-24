@@ -12,7 +12,7 @@ namespace izlazniracuni.Controllers
 {
 
     /// <summary>
-    /// Namijenjeno za CRUD operacije na entitetu Todo Lista u bazi
+    /// Namijenjeno za CRUD operacije na entitetu ugovor u bazi
     /// </summary>
     [ApiController]
     [Route("api/v1/[controller]")]
