@@ -1,0 +1,230 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>izlazniracuni</name>
+    </assembly>
+    <members>
+        <member name="T:izlazniracuni.Controllers.izlazni_racunController">
+            <summary>
+            Namijenjeno za CRUD operacije na entitetu ugovor u bazi
+            </summary>
+        </member>
+        <member name="M:izlazniracuni.Controllers.izlazni_racunController.#ctor(izlazniracuni.Data.izlazniracuniContext,Microsoft.Extensions.Logging.ILogger{izlazniracuni.Controllers.izlazni_racunController})">
+            <summary>
+            Konstruktor
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:izlazniracuni.Controllers.izlazni_racunController.Get">
+             <summary>
+             Dohvaća sve izlazne racune iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                GET api/v1/izlazni_racun
+            
+             </remarks>
+             <returns>izlazni racuni u bazi</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.izlazni_racunController.Post(izlazniracuni.Models.DTO.izlazni_racunDTO)">
+             <summary>
+             Dodaje izlaznog racuna u bazu
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                POST api/v1/izlazni_racun
+                
+            
+             </remarks>
+             <returns>Kreirana izlazni racun u bazi s svim podacima</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response>
+        </member>
+        <member name="M:izlazniracuni.Controllers.izlazni_racunController.Put(System.Int32,izlazniracuni.Models.DTO.izlazni_racunDTO)">
+             <summary>
+             Dodaje izlazni racun u bazu
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                POST api/v1/izlazni_racun
+                
+            
+             </remarks>
+             <returns>Kreirana TodoLista u bazi s svim podacima</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.izlazni_racunController.Delete(System.Int32)">
+             <summary>
+             Briše izlaznog racuna iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                DELETE api/v1/izlazni_racun/1
+                
+             </remarks>
+             <param name="sifra">Šifra TodoListe koja se briše</param>  
+             <returns>Odgovor da li je obrisano ili ne</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="204">Nema u bazi TodoListe kojeu želimo obrisati</response>
+             <response code="415">Nismo poslali JSON</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="T:izlazniracuni.Controllers.kupac2Controller">
+            <summary>
+            Namijenjeno za CRUD operacije na entitetu kupac2 u bazi
+            </summary>
+        </member>
+        <member name="M:izlazniracuni.Controllers.kupac2Controller.Get">
+             <summary>
+             Dohvaća sve kupac2 iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                GET api/v1/kupac2
+            
+             </remarks>
+             <returns>kupac2 u bazi</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.kupac2Controller.Post(izlazniracuni.Models.kupac2)">
+             <summary>
+             Dodaje kupac2 u bazu
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                POST api/v1/kupac2
+              
+            
+             </remarks>
+             <returns>Kreirani kupac2 u bazi s svim podacima</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.kupac2Controller.Put(System.Int32,izlazniracuni.Models.kupac2)">
+             <summary>
+             Mijenja podatke postojećeg kupca2 u bazi
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                PUT api/v1/kupac2/1
+            
+             
+            
+             </remarks>
+             <param name="id">Šifra smjera koji se mijenja</param>  
+             <returns>Svi poslani podaci od smjera</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="204">Nema u bazi smjera kojeg želimo promijeniti</response>
+             <response code="415">Nismo poslali JSON</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.kupac2Controller.Delete(System.Int32)">
+             <summary>
+             Briše kupca2 iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                DELETE api/v1/kupca2/1
+                
+             </remarks>
+             <param name="id">Šifra smjera koji se briše</param>  
+             <returns>Odgovor da li je obrisano ili ne</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="204">Nema u bazi smjera kojeg želimo obrisati</response>
+             <response code="415">Nismo poslali JSON</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="T:izlazniracuni.Controllers.ugovorController">
+            <summary>
+            Namijenjeno za CRUD operacije na entitetu ugovor u bazi
+            </summary>
+        </member>
+        <member name="M:izlazniracuni.Controllers.ugovorController.#ctor(izlazniracuni.Data.izlazniracuniContext,Microsoft.Extensions.Logging.ILogger{izlazniracuni.Controllers.ugovorController})">
+            <summary>
+            Konstruktor
+            </summary>
+            <param name="context"></param>
+        </member>
+        <member name="M:izlazniracuni.Controllers.ugovorController.Get">
+             <summary>
+             Dohvaća sve ugovore iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                GET api/v1/ugovor
+            
+             </remarks>
+             <returns>ugovor u bazi</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.ugovorController.Post(izlazniracuni.Models.DTO.ugovorDTO)">
+             <summary>
+             Dodaje ugovor u bazu
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                POST api/v1/ugovor
+                
+            
+             </remarks>
+             <returns>Kreirana TodoLista u bazi s svim podacima</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.ugovorController.Put(System.Int32,izlazniracuni.Models.DTO.ugovorDTO)">
+             <summary>
+             Dodaje ugovor u bazu
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                POST api/v1/ugovor
+                {naziv:"",Korisnik:""}
+            
+             </remarks>
+             <returns>Kreirana TodoLista u bazi s svim podacima</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="400">Zahtjev nije valjan (BadRequest)</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+        <member name="M:izlazniracuni.Controllers.ugovorController.Delete(System.Int32)">
+             <summary>
+             Briše ugovor iz baze
+             </summary>
+             <remarks>
+             Primjer upita:
+            
+                DELETE api/v1/ugovor/1
+                
+             </remarks>
+             <param name="sifra">Šifra TodoListe koja se briše</param>  
+             <returns>Odgovor da li je obrisano ili ne</returns>
+             <response code="200">Sve je u redu</response>
+             <response code="204">Nema u bazi TodoListe kojeu želimo obrisati</response>
+             <response code="415">Nismo poslali JSON</response> 
+             <response code="503">Na azure treba dodati IP u firewall</response> 
+        </member>
+    </members>
+</doc>
