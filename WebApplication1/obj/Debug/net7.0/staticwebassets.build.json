@@ -1,11 +1,37 @@
 {
   "Version": 1,
-  "Hash": "A2slgGqTBEXkHDWKq5oxyuW8OsFjiN3XpH0u/X0KqVQ=",
+  "Hash": "guSUB6kb+VMMkE8fp19KBEZOI2ym2VfLnNqXgaUzK1k=",
   "Source": "izlazniracuni",
   "BasePath": "_content/izlazniracuni",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
-  "Assets": []
+  "DiscoveryPatterns": [
+    {
+      "Name": "izlazniracuni\\wwwroot",
+      "Source": "izlazniracuni",
+      "ContentRoot": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/izlazniracuni",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\wwwroot\\index.html",
+      "SourceId": "izlazniracuni",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Korisnik\\Documents\\github2\\zavrsni\\WebApplication1\\wwwroot\\",
+      "BasePath": "_content/izlazniracuni",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
 }

@@ -37,7 +37,16 @@ using System.Reflection;
         });
 
 
-        builder.Services.AddDbContext<izlazniracuniContext>(o =>
+builder.Services.AddCors(opcije =>
+{
+    opcije.AddPolicy("CorsPolicy",
+        builder =>
+        builder.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader());
+});
+
+
+
+builder.Services.AddDbContext<izlazniracuniContext>(o =>
             o.UseSqlServer(builder.Configuration.GetConnectionString(name: "izlazniracuniContext")));
 
 
@@ -66,6 +75,7 @@ using System.Reflection;
         app.MapControllers();
         app.UseStaticFiles();
 
+        app.UseCors("CorsPolicy");
 
         app.Run();
    

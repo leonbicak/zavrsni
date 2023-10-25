@@ -99,12 +99,12 @@ namespace izlazniracuni.Controllers
         }
 
         /// <summary>
-        /// Mijenja podatke postojećeg smjera u bazi
+        /// Mijenja podatke postojećeg kupca2 u bazi
         /// </summary>
         /// <remarks>
         /// Primjer upita:
         ///
-        ///    PUT api/v1/smjer/1
+        ///    PUT api/v1/kupac2/1
         ///
         /// 
         ///
@@ -157,12 +157,12 @@ namespace izlazniracuni.Controllers
 
 
         /// <summary>
-        /// Briše smjer iz baze
+        /// Briše kupca2 iz baze
         /// </summary>
         /// <remarks>
         /// Primjer upita:
         ///
-        ///    DELETE api/v1/smjer/1
+        ///    DELETE api/v1/kupca2/1
         ///    
         /// </remarks>
         /// <param name="id">Šifra smjera koji se briše</param>  

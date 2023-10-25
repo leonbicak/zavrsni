@@ -426,3 +426,4 @@ C:\Users\Korisnik\Documents\github2\zavrsni\WebApplication1\obj\Debug\net7.0\izl
 C:\Users\Korisnik\Documents\github2\zavrsni\WebApplication1\obj\Debug\net7.0\ref\izlazniracuni.dll
 C:\Users\Korisnik\Documents\github2\zavrsni\WebApplication1\bin\Debug\net7.0\izlazniracuni.xml
 C:\Users\Korisnik\Documents\github2\zavrsni\WebApplication1\obj\Debug\net7.0\izlazniracuni.xml
+C:\Users\Korisnik\Documents\github2\zavrsni\WebApplication1\bin\Debug\net7.0\izlazniracuni.staticwebassets.runtime.json
