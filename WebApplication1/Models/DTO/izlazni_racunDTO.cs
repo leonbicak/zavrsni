@@ -3,6 +3,8 @@
     public class izlazni_racunDTO
     {
         public int ID_ugovor { get; set; }
+        public int ID_izlazni_racun { get; set; }
+
 
         public DateTime? datum_usluge { get; set; }
         public DateTime? datum_dospjeca { get; set; }

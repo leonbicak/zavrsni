@@ -217,6 +217,51 @@ namespace izlazniracuni.Controllers
             }
         }
 
+        /// <summary>
+        /// Briše izlaznog racuna iz baze
+        /// </summary>
+        /// <remarks>
+        /// Primjer upita:
+        ///
+        ///    DELETE api/v1/izlazni_racun/1
+        ///    
+        /// </remarks>
+        /// <param name="sifra">Šifra TodoListe koja se briše</param>  
+        /// <returns>Odgovor da li je obrisano ili ne</returns>
+        /// <response code="200">Sve je u redu</response>
+        /// <response code="204">Nema u bazi TodoListe kojeu želimo obrisati</response>
+        /// <response code="415">Nismo poslali JSON</response> 
+        /// <response code="503">Na azure treba dodati IP u firewall</response> 
+        [HttpDelete]
+        [Route("{ID_izlazni_racun:int}")]
+
+
+        [Produces("application/json")]
+
+        public IActionResult Delete(int ID_izlazni_racun)
+        {
+            if (ID_izlazni_racun <= 0)
+            {
+                return BadRequest();
+            }
+            var izlazni_racun = _context.izlazni_racun.Find(ID_izlazni_racun);
+            if (izlazni_racun == null)
+            {
+                return BadRequest();
+            }
+            try
+            {
+                _context.izlazni_racun.Remove(izlazni_racun);
+                _context.SaveChanges();
+                return new JsonResult("{\"poruka\":\"Obrisano\"}");
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+                return new JsonResult("{\"poruka\":\"Ne može se obrisati\"}");
+            }
+        }
+
 
 
     }
