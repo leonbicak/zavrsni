@@ -136,12 +136,12 @@
         </member>
         <member name="M:izlazniracuni.Controllers.ugovorController.Delete(System.Int32)">
              <summary>
-             Briše TodoListu iz baze
+             Briše ugovor iz baze
              </summary>
              <remarks>
              Primjer upita:
             
-                DELETE api/v1/TodoLista/1
+                DELETE api/v1/ugovor/1
                 
              </remarks>
              <param name="sifra">Šifra TodoListe koja se briše</param>  

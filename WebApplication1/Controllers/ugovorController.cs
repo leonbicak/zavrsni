@@ -212,8 +212,8 @@ namespace izlazniracuni.Controllers
             }
             try
             {
-                var kupac2 = _context.kupac2.Find(dto.ID_kupac2);
-                if (kupac2 == null)
+                var Kupac2 = _context.kupac2.Find(dto.ID_kupac2);
+                if (Kupac2 == null)
                 {
                     return BadRequest();
                 }
@@ -223,13 +223,13 @@ namespace izlazniracuni.Controllers
                     return BadRequest();
                 }
                 vrati.urudzbeni_broj = dto.urudzbeni_broj;
-                vrati.kupac2 = kupac2;
+                vrati.kupac2 = Kupac2;
 
                 _context.ugovor.Update(vrati);
                 _context.SaveChanges();
 
                 dto.ID_ugovor = ID_ugovor;
-                dto.kupac2 = kupac2.ime;
+                dto.kupac2 = Kupac2.ime;
 
                 return Ok(dto);
 
@@ -245,12 +245,12 @@ namespace izlazniracuni.Controllers
 
 
         /// <summary>
-        /// Briše TodoListu iz baze
+        /// Briše ugovor iz baze
         /// </summary>
         /// <remarks>
         /// Primjer upita:
         ///
-        ///    DELETE api/v1/TodoLista/1
+        ///    DELETE api/v1/ugovor/1
         ///    
         /// </remarks>
         /// <param name="sifra">Šifra TodoListe koja se briše</param>  
