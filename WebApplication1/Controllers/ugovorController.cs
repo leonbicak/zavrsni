@@ -20,6 +20,10 @@ namespace izlazniracuni.Controllers
     {
         private readonly izlazniracuniContext _context;
         private readonly ILogger<ugovorController> _logger;
+        /// <summary>
+        /// Konstruktor
+        /// </summary>
+        /// <param name="context"></param>
 
         public ugovorController(izlazniracuniContext context, ILogger<ugovorController> logger)
         {
@@ -42,6 +46,8 @@ namespace izlazniracuni.Controllers
         [HttpGet]
         public IActionResult Get()
         {
+
+            _logger.LogInformation("Dohvaćam ugovore");
 
 
             if (!ModelState.IsValid)
@@ -145,24 +151,24 @@ namespace izlazniracuni.Controllers
             }
             try
             {
-                var kupac2 = _context.kupac2.Find(dto.ID_kupac2);
-                if (kupac2 == null)
+                var Kupac2 = _context.kupac2.Find(dto.ID_kupac2);
+                if (Kupac2 == null)
                 {
                     return BadRequest("{\"poruka\":\"Nema kupca s tim id.\"}");
                 }
-                ugovor u = new ugovor()
+                ugovor u = new()
                 {
                     ID_ugovor = dto.ID_ugovor,
-                    datum_zavrsetka=dto.datum_zavrsetka,
-                    datum_pocetka = dto.datum_pocetka,
+                    datum_zavrsetka=(DateTime)dto.datum_zavrsetka,
+                    datum_pocetka = (DateTime)dto.datum_pocetka,
                     urudzbeni_broj = dto.urudzbeni_broj,
-                    kupac2 = kupac2
+                    kupac2 = Kupac2
                 };
                 _context.ugovor.Add(u);
                 _context.SaveChanges();
 
                 dto.ID_ugovor = u.ID_ugovor;
-                dto.kupac2 = kupac2.ime;
+                dto.kupac2 = Kupac2.ime;
                 return Ok(dto);
             }
             catch (Exception ex)
@@ -177,12 +183,12 @@ namespace izlazniracuni.Controllers
 
 
         /// <summary>
-        /// Dodaje TodoListu u bazu
+        /// Dodaje ugovor u bazu
         /// </summary>
         /// <remarks>
         /// Primjer upita:
         ///
-        ///    POST api/v1/TodoLista
+        ///    POST api/v1/ugovor
         ///    {naziv:"",Korisnik:""}
         ///
         /// </remarks>

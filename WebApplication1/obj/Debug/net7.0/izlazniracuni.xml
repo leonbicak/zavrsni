@@ -81,6 +81,12 @@
             Namijenjeno za CRUD operacije na entitetu ugovor u bazi
             </summary>
         </member>
+        <member name="M:izlazniracuni.Controllers.ugovorController.#ctor(izlazniracuni.Data.izlazniracuniContext,Microsoft.Extensions.Logging.ILogger{izlazniracuni.Controllers.ugovorController})">
+            <summary>
+            Konstruktor
+            </summary>
+            <param name="context"></param>
+        </member>
         <member name="M:izlazniracuni.Controllers.ugovorController.Get">
              <summary>
              Dohvaća sve ugovore iz baze
@@ -114,12 +120,12 @@
         </member>
         <member name="M:izlazniracuni.Controllers.ugovorController.Put(System.Int32,izlazniracuni.Models.DTO.ugovorDTO)">
              <summary>
-             Dodaje TodoListu u bazu
+             Dodaje ugovor u bazu
              </summary>
              <remarks>
              Primjer upita:
             
-                POST api/v1/TodoLista
+                POST api/v1/ugovor
                 {naziv:"",Korisnik:""}
             
              </remarks>
