@@ -23,6 +23,7 @@ urudzbeni_broj varchar(50),
 
 create table izlazni_racun(
 ID_ugovor int foreign key references ugovor(ID_ugovor),
+ID_izlazni_racun int not null primary key identity(1,1),
 datum_usluge datetime,
 datum_dospjeca datetime,
 cijena int,
@@ -49,9 +50,9 @@ select * from ugovor;
 
 INSERT INTO izlazni_racun (ID_ugovor, datum_usluge,datum_dospjeca,cijena,broj_racuna)
 VALUES
-(1,'2022-08-31','2022-09-15',200,13),
-(2,'2022-07-31','2022-08-15',400,11),
-(3,'2022-10-31','2022-11-15',500,17);
+(1,'2022-08-31','2022-09-15',200,'13'),
+(2,'2022-07-31','2022-08-15',400,'11'),
+(3,'2022-10-31','2022-11-15',500,'17');
 
 drop table izlazni_racun;
 select * from izlazni_racun;
