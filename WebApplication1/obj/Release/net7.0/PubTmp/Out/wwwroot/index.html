@@ -7,7 +7,7 @@
 </head>
 <body>
     <a href="#" id="kliknime">Klikni me</a>
-    <div id="smjerovi">
+    <div id="kupac2">
 
 
     </div>
@@ -16,8 +16,8 @@
             crossorigin="anonymous"></script>
     <script>
         $("#kliknime").click(function () {
-            $.get("/api/v1/Smjer", function (data) {
-                $("#smjerovi").html(JSON.stringify(data));
+            $.get("/api/v1/kupac2", function (data) {
+                $("#kupac2").html(JSON.stringify(data));
             });
             return false;
         });
