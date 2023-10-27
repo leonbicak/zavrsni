@@ -1,6 +1,6 @@
 $(document).foundation();
 
-$.ajax('https://localhost:7116/api/v1/kupac2',   // request url
+$.ajax('https://leonbicak35-001-site1.gtempurl.com/api/v1/kupac2',   // request url
     {
         success: function (data, status, xhr) {// success callback function
             //console.log(data);
